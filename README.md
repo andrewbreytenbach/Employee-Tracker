@@ -43,7 +43,10 @@ This project does not include any unit tests.
 [https://github.com/andrewbreytenbach](Andrew Breytenbach)
 
 ## Acknowledgments
-[https://nodejs.org/](Node.js)
-[https://github.com/mysqljs/mysql] (MySQL2)
-[https://www.npmjs.com/package/inquirer] (Inquirer)
-[https://www.npmjs.com/package/console.table] (console.table)
+* [https://nodejs.org/](Node.js)
+* [https://github.com/mysqljs/mysql] (MySQL2)
+* [https://www.npmjs.com/package/inquirer] (Inquirer)
+* [https://www.npmjs.com/package/console.table] (console.table)
+* [https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs] (Command Line App with Node.js)
+* [https://opensource.com/article/21/11/javascript-command-line-apps] (How to build a command-line app with JavaScript)
+* [https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/] (How to build a command-line application with Node.js)
