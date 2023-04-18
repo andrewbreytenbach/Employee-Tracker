@@ -16,21 +16,25 @@ To get started with the Employee Management System, follow these steps:
 1. Clone this repository: git clone https://github.com/andrewbreytenbach/sql-challenge-employee-tracker.git
 2. Change to the project directory: cd employee-management-system
 3. Install dependencies: npm install
+4. Run mysql -u root -p and enter your password
+5. Run source schema.sql and seeds.sql
 
-IMAGE
+![IMAGE 1](/images/image-1.png "1")
 
 ## Usage
 Run the application: node index.js
 
-IMAGE
+![IMAGE 2](/images/image-2.png "IMAGE 2")
 
 Follow the prompts to manage employee data.
 
-IMAGE
+![IMAGE 3](/images/image-3.png "IMAGE 3")
 
 The application will display data in a formatted table in the terminal.
 
-IMAGE
+![IMAGE 4](/images/image-4.png "IMAGE 4")
+
+View a video walkthrough here: [https://drive.google.com/file/d/1Q3uXp87De05ofs4r8UAxmkRKYfouKfJw/view](SQL Employee Tracker Walkthrough)
 
 ## Running Tests
 This project does not include any unit tests.
