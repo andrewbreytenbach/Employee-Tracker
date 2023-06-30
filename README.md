@@ -36,9 +36,6 @@ The application will display data in a formatted table in the terminal.
 
 View a video walkthrough here: [https://drive.google.com/file/d/1YHFOD9-V6blL73IC5S8_WyXWX7r8sAJd/view](SQL Employee Tracker Walkthrough)
 
-## Running Tests
-This project does not include any unit tests.
-
 ## Contact
 [https://github.com/andrewbreytenbach](Andrew Breytenbach)
 
